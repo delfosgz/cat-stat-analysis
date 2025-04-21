@@ -6,4 +6,3 @@
 ✅ **Cramér’s V** to measure the strength of association  
 ✅ Generates a **formatted Markdown report** with detailed conclusions  
 ✅ Creates a **stacked percentage bar chart** visualizing relationships  
-✅ **PDF report generation** with Markdown and visual results  
