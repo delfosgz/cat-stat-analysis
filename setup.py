@@ -8,7 +8,7 @@ setup(
     description="A simple tool for analyzing relationships between categorical variables",
     long_description=open('README.md').read(),  # Long description from README.md
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/cat-stat-analysis",  # Your GitHub URL or project homepage
+    url="https://github.com/delfosgz/cat-stat-analysis.git",  # Your GitHub URL or project homepage
     packages=find_packages(),  # Automatically finds the Python packages (directories with __init__.py)
     classifiers=[
         "Programming Language :: Python :: 3",

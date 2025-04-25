@@ -1,5 +1,5 @@
 import pandas as pd
-import cat_stat.main  as cstt
+import cat_stat as cstt
 
 data = {
     'Gender': ['Male', 'Female', 'Female', 'Male', 'Female', 'Male', 'Female', 'Male', 'Female', 'Male'],
@@ -8,3 +8,5 @@ data = {
 df = pd.DataFrame(data)
 
 cstt.get_analysis(df, 'Gender', 'Purchase')
+
+cstt.get_analysis
