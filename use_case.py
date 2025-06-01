@@ -1,5 +1,5 @@
 import pandas as pd
-import cat_stat as cstt
+import cat_stat.cat_stat as cstt
 
 data = {
     'Gender': ['Male', 'Female', 'Female', 'Male', 'Female', 'Male', 'Female', 'Male', 'Female', 'Male'],
